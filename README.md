@@ -8,7 +8,7 @@ All R scripts, files, presentations etc. in this repository are materials for th
 [https://roiseal.shinyapps.io/cdsc](https://roiseal.shinyapps.io/cdsc)
 
 * The whole code of this application, as well as all the milestone report, related scripts, this presentation  etc. can be found in this Github repo: 
-[https://github.com/mhnierhoff/CapstoneCoursera](https://github.com/roiseal/CapstoneCoursera)
+[https://github.com/roiseal/CapstoneCoursera](https://github.com/roiseal/CapstoneCoursera)
 
 * This pitch deck with a short presentation for the capstone application is located here: 
 [http://rpubs.com/roiseal/cdsc](http://rpubs.com/roiseal/cdsc)
